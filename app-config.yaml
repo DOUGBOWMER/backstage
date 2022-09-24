@@ -1,5 +1,5 @@
 app:
-  title: Backstage Example App
+  title: WorldSpace Software
   baseUrl: http://localhost:3000
   googleAnalyticsTrackingId: # UA-000000-0
   #datadogRum:
@@ -120,7 +120,7 @@ proxy:
       Authorization: 'Api-Token ${DYNATRACE_ACCESS_TOKEN}'
 
 organization:
-  name: My Company
+  name: WorldSpace 
 
 # Reference documentation http://backstage.io/docs/features/techdocs/configuration
 # Note: After experimenting with basic setup, use CI/CD to generate docs
